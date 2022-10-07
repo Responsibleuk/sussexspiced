@@ -74,7 +74,7 @@ a:visited {
 }
 
 a:hover {
-  color: #b99272;
+  color: red;
   text-decoration: underline;
 }
 
@@ -223,7 +223,7 @@ input[type="submit"] {
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
-  background: #b99272;
+  background: red;
   border: none;
   outline: none !important;
   -webkit-box-shadow: none !important;
@@ -287,7 +287,7 @@ button:before {
 
 a.kf-btn:hover,
 .kf-btn:hover {
-  color: #b99272;
+  color: red;
 }
 
 a.kf-btn:hover:before,
@@ -599,7 +599,7 @@ blockquote cite:before,
   top: 50%;
   width: 35px;
   height: 3px;
-  background: #b99272;
+  background: red;
 }
 
 .block-quote cite em,
@@ -1093,7 +1093,7 @@ button.mfp-close:before {
 * Header
 **/
 .admin-bar .kf-header {
-  top: 32px;
+  top: 2px;
 }
 
 .admin-bar .kf-header.fixed .kf-navbar {
@@ -1252,7 +1252,7 @@ button.mfp-close:before {
 }
 
 .kf-h-group em, .kf-h-group i {
-  color: #b99272;
+  color: red;
   font-style: normal;
 }
 
@@ -1305,7 +1305,7 @@ button.mfp-close:before {
 }
 
 .kf-main-menu ul li a:hover {
-  color: #b99272;
+  color: red;
 }
 
 .kf-main-menu ul li a i {
@@ -1320,7 +1320,7 @@ button.mfp-close:before {
 }
 
 .kf-main-menu ul li.active > a {
-  color: #b99272;
+  color: red;
 }
 
 .kf-main-menu ul li ul {
@@ -1666,7 +1666,7 @@ button.mfp-close:before {
 
 .kf-f-hours ul li em {
   display: block;
-  color: #b99272;
+  color: red;
   font-style: normal;
 }
 
@@ -1697,12 +1697,12 @@ button.mfp-close:before {
   left: 0;
   top: 5px;
   font-size: 40px;
-  color: #b99272;
+  color: red;
 }
 
 .kf-f-contact ul li em {
   display: block;
-  color: #b99272;
+  color: red;
   font-style: normal;
   font-weight: 600;
 }
